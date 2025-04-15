@@ -1,16 +1,20 @@
-## Hi there 👋
+### Alan de Oliveira Coutinho
 
-<!--
-**alancoutinho25/alancoutinho25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
+Oficial Administrativo na [Superintendência de Proteção e Defesa do Consumidor (Procon) de Uberlândia](https://www.uberlandia.mg.gov.br/prefeitura/orgaos-municipais/procon/).
 
-Here are some ideas to get you started:
+Mestrando em Física pelo [Instituto de Física da UFU](https://infis.ufu.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bacharel em Física de Materiais pelo mesmo instituto.
+
+[Currículo Lattes](http://lattes.cnpq.br/8077627250932677)
+
+### Área de Pesquisa
+
+---
+Atualmente desenvolvo projeto junto ao [Grupo de Propriedades Ópticas e Térmicas de Materiais](https://sites.google.com/view/gpotm-ufu), nos seguintes temas:
+
+* caracterização óptica de materiais;
+* vidros dopados com íons terras-raras.
+
+![unnamed](https://github.com/user-attachments/assets/89b18380-dcaf-4f13-96b0-58aace8c8a50)
