@@ -17,4 +17,6 @@ Atualmente desenvolvo projeto junto ao [Grupo de Propriedades Ópticas e Térmic
 * caracterização óptica de materiais;
 * vidros dopados com íons terras-raras.
 
-![unnamed](https://github.com/user-attachments/assets/89b18380-dcaf-4f13-96b0-58aace8c8a50)
+![f (4)](https://github.com/user-attachments/assets/3dcb9bee-59d3-42b0-bbdb-028f8f981c2d)
+
+
