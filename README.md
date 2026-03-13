@@ -1,15 +1,15 @@
-### Alan de Oliveira Coutinho
+### 👋 Seja(m) bem-vindo(s) ao meu github! Meu nome é Alan de Oliveira Coutinho
 
 ***
-Oficial Administrativo na [Superintendência de Proteção e Defesa do Consumidor (Procon) de Uberlândia](https://www.uberlandia.mg.gov.br/prefeitura/orgaos-municipais/procon/).
+🚀 **Sobre mim**:
 
-Mestrando em Física pelo [Instituto de Física da UFU](https://infis.ufu.br/).
+🔬Bacharel e Mestre em Física de Materiais pelo [Instituto de Física da UFU](https://infis.ufu.br/).
 
-Bacharel em Física de Materiais pelo mesmo instituto.
+📊Cientista de Dados em formação pela [PoD Academy](https://www.podacademy.com.br/)
 
-[Currículo Lattes](http://lattes.cnpq.br/8077627250932677)
+🎓[Currículo Lattes](http://lattes.cnpq.br/8077627250932677)
 
-### Área de Pesquisa
+### Áreas de pesquisa e interesse
 
 ---
 Atualmente desenvolvo projeto junto ao [Grupo de Propriedades Ópticas e Térmicas de Materiais](https://sites.google.com/view/gpotm-ufu), nos seguintes temas:
@@ -17,3 +17,8 @@ Atualmente desenvolvo projeto junto ao [Grupo de Propriedades Ópticas e Térmic
 * caracterização óptica de materiais;
 * vidros dopados com íons terras-raras.
 
+Também estou focado em Análise de Dados, Machine Learning e Computação Científica, combinando minha forte formação em física, matemática e raciocínio analítico com tecnologias modernas de dados.
+
+📫 Conecte-se comigo
+
+LinkedIn: (www.linkedin.com/in/alan-coutinho-707941159)
