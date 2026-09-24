@@ -5,7 +5,7 @@ Meu nome é Alan de Oliveira Coutinho
 ***
 🚀 **Sobre mim**:
 
-🔬Bacharel e Mestre em Física de Materiais Doutorando em Astronomia pelo [Instituto de Física da UFU](https://infis.ufu.br/).
+🔬Bacharel e Mestre em Física de Materiais [Instituto de Física da UFU](https://infis.ufu.br/).
 
 🪐 Doutorando em Astronomia pelo [Instituto de Física da UFU](https://infis.ufu.br/)
 
